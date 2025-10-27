@@ -21,4 +21,4 @@ Each folder in this repository is sequentially named and contains:
 - Java Development Kit (JDK) 8 or higher
 - A Java IDE or text editor (such as IntelliJ IDEA, VS Code, or Eclipse)
 
-> The root folder contains the 0Essentails - the folder contains the common methods that are used while solving the problems in java.
+> The root folder contains the 0-Essentails : the folder contains the common methods that are used while solving the problems in java.
