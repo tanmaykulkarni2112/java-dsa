@@ -1,0 +1,1 @@
+The `new` keyword is used to create an object and store that data inside the heap.
