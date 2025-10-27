@@ -25,6 +25,9 @@ public class basics {
             System.out.println("The index is " + i + "and the value there is " + ids[i]);
         }
 
+        // modify the data inside array
+
+        ids[2] = 432;
 
         // Default values in arrays
         int[] intExample = new int[3];
@@ -42,6 +45,7 @@ public class basics {
             System.out.println("WE USED FOREACH LOOP TO PRINT " + id);
         }          
 
+
         // {section 2} -- USING METHODS
 
         System.out.println("Using the .length methods to update the strExample array");
@@ -52,7 +56,7 @@ public class basics {
         }
 
         // Using the Arrays.toString() method to print the array
-        System.out.println("Using the Arrays.toString() method to 'print' the array")
+        System.out.println("Using the Arrays.toString() method to 'print' the array");
         System.out.println(Arrays.toString(strExample));
 
     }

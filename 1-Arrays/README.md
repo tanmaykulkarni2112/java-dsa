@@ -62,3 +62,24 @@ Code is present in the basics.java execute it to get a better understanding
 
 
 Code for the same can be found in {section 2} of basics.java
+
+
+# 2D arrays 
+
+
+2d Arrays are like matrix 
+
+```
+| 1  2 |
+| 3  4 |
+```
+
+here 
+- x1,y1 = 1
+- x1,y2 = 2
+- x2,y1 = 3
+- x2,y2 = 4
+
+Similary for making the 2D arrays inside java we make use of the nested arrays inside one another the similar presentation of the above above matrix will be like  `[ [1,2],[3,4] ]`
+
+Implementation for the same can be seen in `Array2D.java`
